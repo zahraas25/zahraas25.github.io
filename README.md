@@ -1,13 +1,13 @@
 # zahraas25.github.io
 <h1> Welcome to my website.
 
-<p> List of my favourite colours: </p>
+<h2> List of my favourite colours: </p>
  1. Yellow </p>
  2. Blue </p>
- ⋅⋅* List of </p>
- 1. Actual numbers don't matter, just that it's a number </p>
-⋅⋅1. Ordered sub-list </p>
- 4. And another item. </p>
+ ⋅⋅* List of places I want to visit: </p>
+ 1. Singapore, Makkah, Switzerland, Japan. </p>
+
+ 
   
   
 Here's our logo (hover to see the title text):
