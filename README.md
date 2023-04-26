@@ -3,9 +3,9 @@
 
 <h2> List of my favourite colours: </p>
 <h3> 1. Yellow </p>
- 2. Blue </p>
- ⋅⋅* List of places I want to visit: </p>
- 1. Singapore, Makkah, Switzerland, Japan. </p>
+<h3> 2. Blue </p>
+<h2> List of places I want to visit: </p>
+<h3>1. Singapore, Makkah, Switzerland, Japan. </p>
 
  
   
