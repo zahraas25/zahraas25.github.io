@@ -2,7 +2,7 @@
 <h1> Welcome to my website.
 
 <h2> List of my favourite colours: </p>
- 1. Yellow </p>
+<h3> 1. Yellow </p>
  2. Blue </p>
  ⋅⋅* List of places I want to visit: </p>
  1. Singapore, Makkah, Switzerland, Japan. </p>
