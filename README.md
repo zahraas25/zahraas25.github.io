@@ -8,7 +8,7 @@
 <h3>1. Singapore, Switzerland, Japan. </p>
 
 <h2> Here's an image of my favourite house pet:
-![alt text](https://i.redd.it/gh5u9ih71j021.jpg "Cats")
+![alt text](https://i.redd.it/gh5u9ih71j021.jpg)
  
 <h2> Links to websites that support why I think cats are the best house pet:
 <h4> 
