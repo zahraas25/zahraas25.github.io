@@ -1,7 +1,7 @@
 # zahraas25.github.io
 <h1> Welcome to my website.
 
-<h2> List of my favourite colours: 
+ <h2> List of my favourite colours: </h2>
 <h3> 1. Yellow </p>
 <h3> 2. Blue </p>
 <h2> List of places I want to visit: 
