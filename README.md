@@ -1,11 +1,11 @@
 # zahraas25.github.io
 <h1> Welcome to my website.
 
-<h2> List of my favourite colours: </p>
+<h2> List of my favourite colours: 
 <h3> 1. Yellow </p>
 <h3> 2. Blue </p>
-<h2> List of places I want to visit: </p>
-<h3>1. Singapore, Switzerland, Japan. </p>
+<h2> List of places I want to visit: 
+<h3>1. Singapore, Switzerland, Japan. 
 
 <h2> Here's an image of my favourite house pet:
 ![alt text](https://i.redd.it/gh5u9ih71j021.jpg)
